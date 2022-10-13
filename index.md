@@ -3,3 +3,13 @@
 ###### This is an H6 Header
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+Here is a code example:
+```
+#include <stdio.h>
+
+int main void()
+{
+  printf("Hello, world!\n");
+}
+```
