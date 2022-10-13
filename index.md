@@ -13,3 +13,7 @@ int main void()
   printf("Hello, world!\n");
 }
 ```
+And here's some checkboxes:
+- [x] List format is required
+- [x] This is a completed task
+- [x] This is not complete
